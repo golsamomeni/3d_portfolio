@@ -20,6 +20,7 @@ import {
     meta,
     starbucks,
     wonderland,
+    ontario,
     tmu,
     tesla,
     shopify,
@@ -137,16 +138,17 @@ import {
   
   const experiences = [
     {
-      title: "Line Cook",
-      company_name: "Canada's Wonderland",
-      icon: wonderland,
+      title: "IT QA Assistant",
+      company_name: "Ministry of Public and Business Service Delivery and Procurement",
+      icon: ontario,
       iconBg: "#383E56",
-      date: "November 2022 - December 2022",
+      date: "September 2024 – April 2025",
       points: [
-        "Followed proper food handling methods and maintained correct temperature of food products resulting in high scores on health food insepctions.",
-        "Set up and performed initial prep work for food items such as soups , sauces and salads.",
-        "Kept stations stocked and readt to use for maximum productivity.",
-        "Organized and labeled stock of ingredients to maintain needed inventory levels.",
+        "Developed and managed 700+ test cases to assess application functionality and user workflows across the administrative and student-facing components of OSAP applications.",
+        "Executed 1000+ manual test cases for regression and smoke testing to validate functionality, interface interactions, and business requirements.",
+        "Logged, tracked, and managed software defects in Application Lifecycle Management (ALM), collaborating closely with QA leads and developers to ensure timely resolution.",
+        "Conducted User Acceptance Testing (UAT), regression testing, and retests to validate fixes and maintain software stability.",
+        "Verified rollover processes and data integrity for OSAP applications, ensuring seamless system transitions."
       ],
     },
     {
