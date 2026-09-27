@@ -35,7 +35,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import wonderland from "./company/wonderland.png";
-import ontario from "./ontario.png";
+import ontario from "./company/ontario.png";
 import tmu from "./company/tmu.png";
 
 import carrent from "./carrent.png";
