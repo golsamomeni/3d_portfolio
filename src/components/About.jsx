@@ -26,17 +26,22 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)}> 
-        Hi, I'm Golsa, a Computer Science graduate from Toronto Metropolitan University
-        with a passion for building software that solves real-world problems.
-        My experience spans full-stack development, backend engineering, and
-        software quality assurance. I've built applications using Python,
-        JavaScript, React, Node.js, FastAPI, and PostgreSQL, and recently
-        developed an enterprise RAG assistant featuring hybrid search and
-        role-based access control. I also bring professional QA experience
-        from the Ontario Public Service, where I worked on testing large-scale
-        applications, managing test cases, and collaborating with development
-        teams to improve software quality. I'm curious by nature, enjoy tackling
-        challenging problems, and love turning ideas into useful, well-engineered products.
+        Hi, I'm Golsa, a Computer Science graduate from
+        Toronto Metropolitan University with a passion for
+        building software that solves real-world problems.
+        My experience spans full-stack development, backend
+        engineering, and software quality assurance. I've
+        built applications using Python, JavaScript, React,
+        Node.js, FastAPI, and PostgreSQL, and recently
+        developed an enterprise RAG assistant featuring
+        hybrid search and role-based access control. I also
+        bring professional QA experience from the Ontario
+        Public Service, where I worked on testing large-scale
+        applications, managing test cases, and collaborating
+        with development teams to improve software quality.
+        I'm curious by nature, enjoy tackling challenging
+        problems, and love turning ideas into useful,
+        well-engineered products.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
